@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Why?](README.md)
+* [Dedication](dedication.md)
+* [License](license.md)
+* [Introduction](introduction/README.md)
   * [What Sort of Games Can I Run?](introduction/what-sort-of-games-can-i-run.md)
   * [Why Do People Roleplay?](introduction/why-do-people-roleplay.md)
   * [Does Universal Gaming System Do X?](introduction/does-universal-gaming-system-do-x.md)
