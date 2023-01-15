@@ -2,6 +2,7 @@
 
 * [Why?](README.md)
 * [Dedication](dedication.md)
+* [The Authors](the-authors.md)
 * [License](license.md)
 * [Introduction](introduction/README.md)
   * [What Sort of Games Can I Run?](introduction/what-sort-of-games-can-i-run.md)
