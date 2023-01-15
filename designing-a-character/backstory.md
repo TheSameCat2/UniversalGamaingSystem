@@ -1,0 +1,3 @@
+# Backstory
+
+If you have time, you may also want to write out a backstory explaining where your character came from. Some game masters may even require this step, because it will add a great deal of depth to your character. Make sure you have the game master's assistance with this step, should you chose to take it. You will want to ensure that nothing you place in your backstory will conflict with world-specific timelines and items. Having a clear idea of where your character came from can give you a better idea of where he is going, not to mention having stories to tell around the proverbial camp fire in game.

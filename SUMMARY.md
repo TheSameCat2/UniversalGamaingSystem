@@ -15,6 +15,8 @@
 * [Designing A Character](designing-a-character/README.md)
   * [Concepting a Character](designing-a-character/concepting-a-character.md)
   * [Goals and Motivations](designing-a-character/goals-and-motivations.md)
+  * [Abilities](designing-a-character/abilities.md)
+  * [Backstory](designing-a-character/backstory.md)
 * [The Mechanics](the-mechanics/README.md)
   * [Character Points](the-mechanics/character-points.md)
   * [Ability Scores](the-mechanics/ability-scores.md)

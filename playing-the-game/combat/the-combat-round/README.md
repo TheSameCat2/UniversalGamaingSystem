@@ -1,6 +1,6 @@
 # The Combat Round
 
-Combat is described in Cinematic as taking place in rounds. Each round describes what the players and opponents are doing for a six-second period. The actions are said to take place simultaneously, however since it is impossible for all the players to state their actions at the same time, the round is broken up into turns. The order of turns is determined by something called an initiative check that will be explained later in this section.\
+Combat is described in the Universal Gaming System as taking place in rounds. Each round describes what the players and opponents are doing for a six-second period. The actions are said to take place simultaneously, however since it is impossible for all the players to state their actions at the same time, the round is broken up into turns. The order of turns is determined by something called an initiative check that will be explained later in this section.\
 \
 Each turn consists of:
 

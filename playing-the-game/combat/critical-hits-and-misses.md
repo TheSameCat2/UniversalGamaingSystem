@@ -1,6 +1,6 @@
 # Critical Hits and Misses
 
-Sometimes both the wonderful and the horrible happen in real life. These are the moments that define us as people, and are almost always the most memorable. Cinematic represents these moments as critical hits and critical misses.\
+Sometimes both the wonderful and the horrible happen in real life. These are the moments that define us as people, and are almost always the most memorable. The Universal Gaming System represents these moments as critical hits and critical misses.\
 \
 You have scored a critical hit when you roll a natural 12 on 2d6. This means that you have achieved the peak of your potential and luck has smiled on you during your attempt. The on a critical hit you will deal extra damage determined by what type of weapon you are using. If you are unarmed, you deal +1 HP of damage on a critical hit.\
 \

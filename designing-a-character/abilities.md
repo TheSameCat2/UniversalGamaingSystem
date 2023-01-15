@@ -1,0 +1,4 @@
+# Abilities
+
+Next, ask yourself what your character is good at doing. What are his talents, abilities, and skills that set him apart from the average crowd? Every character should have at least one ability that makes him stand out. (Even if not being noticed is your skill!) Try not to think in mechanical terms during this portion of the character generation. Think in real world terms.\
+Now, think of things that your character is horrible at doing. It may not seem obvious to new roleplayers, but the things we are bad at define us just as much as the things we are good at doing! Failure, while not our favorite thing, is an essential part of success. The wizard with phenomenal cosmic power who cannot tie his own shoes is much more interesting than the person who can do everything, all the time.

@@ -1,6 +1,6 @@
 # Ability Scores
 
-Cinematic uses a system of six ability scores to represent your raw physical attributes. We call these Ability Scores. You use your ability scores to determine a secondary number called an Ability Modifier, which determines bonuses or penalties to certain skills and talents. An ability score of seven means you are an average hero (3 being an average human). Typical Cinematic characters start the game with a seven in every ability score for free. This may be modified by your GM in some campaigns. Improvements in ability scores can be purchased with character points. In certain campaigns you may also be able to gain extra character points by taking a below average ability score. You should ask your GM if this option is available for you.\
+The Universal Gaming System uses a system of six ability scores to represent your raw physical attributes. We call these Ability Scores. You use your ability scores to determine a secondary number called an Ability Modifier, which determines bonuses or penalties to certain skills and talents. An ability score of seven means you are an average hero (3 being an average human). Typical characters start the game with a seven in every ability score for free. This may be modified by your GM in some campaigns. Improvements in ability scores can be purchased with character points. In certain campaigns you may also be able to gain extra character points by taking a below average ability score. You should ask your GM if this option is available for you.\
 \
 
 
